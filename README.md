@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyanshi!
 
-🎓 I'm a B.Tech IT student at PSIT, currently in my 2nd year.  
+🎓 I'm a B.Tech IT student at PSIT, currently in my 3rd year.  
 🧠 Passionate about Machine Learning.  
 🎨 A creative soul with a love for art!  
 💻 Always exploring new technologies and building cool stuff.
